@@ -119,3 +119,6 @@ Status sistem:
 - Jika browser menolak koneksi, nonaktifkan flag `block-insecure-private-network-requests` di `chrome://flags`.
 
 ---
+## Hasil
+
+<img src="Hasil.png" width="700">
